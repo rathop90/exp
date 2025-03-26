@@ -1,0 +1,21 @@
+html5   <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animated Envelope</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="envelope" id="envelope">
+        <div class="letter" id="letter">
+            <span class="heart">❤️</span>
+            <p class="message">Hey Anuradha, I want to tell you this again that I like you!</p>
+        </div>
+    </div>
+
+    <button id="clickButton" class="click-button">Click here</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
